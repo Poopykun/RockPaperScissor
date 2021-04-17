@@ -1,0 +1,26 @@
+body {
+
+    background-image: -moz-linear-gradient(to right, rgba(172, 220, 252, 0.781), rgb(121, 247, 205));
+    
+}
+
+
+.Heading{
+
+text-align: center;
+font-family: 'lato', sans-serif;
+
+
+}
+
+.image-cont {
+
+    display: flex;
+
+
+}
+
+.all-img {
+    max-width: 100%;
+    height: auto;
+}
